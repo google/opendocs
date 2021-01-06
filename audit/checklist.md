@@ -123,5 +123,5 @@ At level 3, documentation is a continuously improving practice within your proje
 
 ### Resources
 
-- [ ] [Write the Docs](https://www.writethedocs.org/)
-- [ ] [The Good Docs Project](https://thegooddocsproject.dev/)
+- [Write the Docs](https://www.writethedocs.org/)
+- [The Good Docs Project](https://thegooddocsproject.dev/)
