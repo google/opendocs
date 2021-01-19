@@ -2,7 +2,7 @@
 
 A resource provided by your friends from Google Season of Docs, Google Open Source, and contributors.
 
-The [documentation content maturity checklist](checklist.md) helps open source maintainers and contributors identify the documentation and docs process they already have and learn how to take it to the next level.
+The [documentation content maturity checklist](checklist.md) and [documentation inventory guide](inventory.md) help open source maintainers and contributors identify the documentation and docs process they already have and learn how to take it to the next level.
 
 These materials are:
 
@@ -27,7 +27,12 @@ Before you begin, collect any resources related to learning about your project, 
 - Discussion forums
 - Mailing lists
 
-Then step through each point in [checklist.md](checklist.md).
+Then follow these steps:
+
+1. Create an inventory of your documentation content by following the [documentation inventory guide](inventory.md).
+2. Compare your project to the [documentation content maturity checklist](checklist.md).
+
+Although the [documentation inventory guide](inventory.md) and [documentation content maturity checklist](checklist.md) are complementary tools that work best together, each stands alone. If you have relatively little content to audit or you want to complete a limited, preliminary audit faster, then start with the [documentation content maturity checklist](checklist.md).
 
 ## Contribute
 
