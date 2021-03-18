@@ -9,7 +9,7 @@ What you include in your onboarding, and how you present that information will d
 - If doc practices are new in your organization, work together with your writer to define their role and determine how to incorporate the doc lifecycle into your project lifecycle.
 - If doc practices are more established, use the checklist to identify gaps or opportunities to make your onboarding information more cohesive.
 
-Instead of trying to cover everything, the goal of onboading is to provide a map to help your writer navigate your organization and its practices. It should provide enough information to help a writer feel welcome, gain confidence, and feel supported as they grow with you.
+Instead of trying to cover everything, the goal of onboarding is to provide a map to help your writer navigate your organization and its practices. It should provide enough information to help a writer feel welcome, gain confidence, and feel supported as they grow with you.
 
 You’re free to copy, modify, and redistribute these materials under the terms of the CC-BY license. See the [`LICENSE`](../LICENSE) file for details.
 
