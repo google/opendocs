@@ -84,7 +84,7 @@ think of them!)
     able to develop muscle memory for the location of the service docs, and find
     identical structure.
 
-    -   Add a link to yuor new index page to the central index of services.
+    -   Add a link to your new index page to the central index of services.
 
 2.  Replace all strings marked in **@** (e.g. `@SERVICE_NAME@`) with the correct
     values for your service.
