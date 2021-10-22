@@ -6,7 +6,7 @@ Last Update: @Date@
 
 **Note:** This document is meant for Ops, Helpdesk, or Security. If you are
 having problems with a service, please call Helpdesk or
-[file a ticket](@TICKET_URL).
+[file a ticket](@TICKET_URL@).
 
 @SERVICE_NAME@
 ==================
