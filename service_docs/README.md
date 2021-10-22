@@ -68,7 +68,7 @@ It may happen that while filling out the templates, one is motivated to describe
 what should be, rather than what is. While a
 [*Production Readiness Review*](https://sre.google/sre-book/evolving-sre-engagement-model/)
 may ask similar questions, this is not a PRR: make sure you document the system
-as built, as that is most useful for the pople who are maintaining the service
+as built, as that is most useful for the people who are maintaining the service
 or responding to incidents. (But, do file feature requests for any ideas you
 have to improve the reliability and operational maturity of the service as you
 think of them!)
