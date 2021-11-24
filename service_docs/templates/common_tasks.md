@@ -13,7 +13,7 @@ having problems with a service, please call Helpdesk or
 
 ##### Quick links:
 
--   [Server locations](oeprations.md#servers_hardware)
+-   [Server locations](operations.md#servers_hardware)
 -   [Outage Impact/SLA](index.md#outageimpact)
 
 
