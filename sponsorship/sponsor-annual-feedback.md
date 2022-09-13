@@ -16,7 +16,6 @@ Generally, an _annual feedback report_ should answer the following questions:
 * What highlights do you want to showcase?
 * What new challenges are you concerned about?
 
-
 ## Example _sponsorship annual feedback report_
 
 __Contact information__

@@ -37,7 +37,7 @@ This sponsorship level enables us to feed all the bears in our care with real Pa
 * Bear Walker - $1K
 * Organizational admin - $1K
 
-** Sponsorship benefits **
+**Sponsorship benefits**
 - Sponsorship logo listed on our Fat Bear sponsors page for 2022
 - Photos of sponsored bears sent on a quarterly basis
 - Sponsorship impact report sent at end of year (template to be provided by sponsor)
