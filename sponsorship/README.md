@@ -1,4 +1,4 @@
-# [Writing sponsorship reporting toolkit](https://github.com/google/opendocs/blob/main/sponsorship/README.md)
+# [Sponsorship reporting toolkit](https://github.com/google/opendocs/blob/main/sponsorship/README.md)
 
 A resource to help you develop or improve communications with potential and active sponsors of your open source organization. 
 
