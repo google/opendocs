@@ -30,7 +30,7 @@ Generally, an _event report_ should answer the following information:
 
 **Organization:** Friends Rehabilitating Wild Bears in North America
 
-**Tax-status:** 501(c)(3), registered in the United States
+**Tax-status:** 501(c)3, registered in the United States
 
 **Mission:** Our organization rehabilitates bears in North America to return them to the wilderness as quickly as possible
 
