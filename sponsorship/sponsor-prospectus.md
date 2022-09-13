@@ -21,7 +21,9 @@ Generally, a _sponsorship prospectus_ should answer the following questions:
 ## Example sponsorship prospectus
 
 **Organization:** Friends Rehabilitating Wild Bears in North America
+
 **Tax-status:** 5013c, registered in the United States
+
 **Mission:** Our organization rehabilitates bears in North America to return them to the wilderness as quickly as possible
 
 **Previous year's sponsorship impact report:** _insert URL here for any relative report on last year's sponsorships_

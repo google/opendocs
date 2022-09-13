@@ -38,7 +38,7 @@ Phone number:
 
 3. Have there been any major changes to your organization or your mission since the sponsorship contract was signed?
 
-4. Are there any sponsorship benefits that have not yet been leveraged by (this sponsor}?
+4. Are there any sponsorship benefits that have not yet been leveraged by {this sponsor}?
 
 5. Are there any highlights from the last year that you would like to share?
 
