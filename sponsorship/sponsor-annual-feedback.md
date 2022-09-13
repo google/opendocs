@@ -19,11 +19,15 @@ Generally, an _annual feedback report_ should answer the following questions:
 ## Example _sponsorship annual feedback report_
 
 __Contact information__
+
 Organization Name:
 
 __Primary Point of Contact__
+
 Name:
+
 Email:
+
 Phone number:
 
 **[Current Year/Cycle] Sponsorship Impact Report**
