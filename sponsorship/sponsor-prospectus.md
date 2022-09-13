@@ -22,7 +22,7 @@ Generally, a _sponsorship prospectus_ should answer the following questions:
 
 **Organization:** Friends Rehabilitating Wild Bears in North America
 
-**Tax-status:** 5013c, registered in the United States
+**Tax-status:** 501(c)(3), registered in the United States
 
 **Mission:** Our organization rehabilitates bears in North America to return them to the wilderness as quickly as possible
 
