@@ -6,7 +6,7 @@ This toolkit provides a templates of content to consider when seeking and suppor
 
 - A [sponsor prospectus](sponsor-prospectus.md) explains what kind of support you are asking for.
 - A [sponsor event report](sponsor-event-report.md) provides sponsors with information about how useful their sponsorship was for a single event, such as a contributor sprint or conference.
-- A [sponsor annual feedback report](sponsor-annual-feedback) guides your sponsors to understand how impactful their specific sponsorship was for your organization.
+- A [sponsor annual feedback report](sponsor-annual-feedback.md) guides your sponsors to understand how impactful their specific sponsorship was for your organization.
 
 What you include in your documents, and how you present that will depend on the resources available to you as well as the information that is important to your sponsors.
 
