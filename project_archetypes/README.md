@@ -5,3 +5,4 @@
 - [The Edit](edit.md)
 - [The Manual](manual.md)
 - [The Migration](migration.md)
+- [The Study](study.md)
