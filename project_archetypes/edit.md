@@ -4,7 +4,7 @@ This project type focuses on revising existing docs, to improve quality and cons
 
 _The Edit_ is also known as technical editing, proofreading, copyediting, developmental editing, content editing, and formatting.
 
-_The Edit_ is most similar to [The Manual](./manual.md), which applies when you're rewriting docs.
+_The Edit_ is most similar to [The Manual](./manual.md), which applies when you’re rewriting docs.
 
 _The Edit_ is sometimes difficult to estimate for size or duration.
 Consider testing the work with [The Discovery](./discovery.md).
@@ -12,7 +12,7 @@ Consider testing the work with [The Discovery](./discovery.md).
 _The Edit_ is often preceded by:
 
 - [The Study](./study.md) and [The Audit](./audit.md), to evaluate existing docs and determine which, if any, require editing
-- [The Rules](./rules.md), to adopt a style guide or document your software project's writing conventions and document types
+- [The Rules](./rules.md), to adopt a style guide or document your software project’s writing conventions and document types
 - [The Manual](./manual.md), to create new docs
 - [The Sample](./sample.md), to create new sample code, figures, and captions
 
@@ -56,7 +56,7 @@ Do this project to solve problems such as:
 - Documentation contributors find it difficult to add or edit docs in a way that is consistent with other docs.
   You may have evidence of pervasively inconsistent formatting, terminology, style, voice, tone, or structure between or within documents.
 
-- Formatting, style, voice, and tone choices have been previously unmanaged (that is, you didn't have a style guide) or recently changed (that is, you switched style guides).
+- Formatting, style, voice, and tone choices have been previously unmanaged (that is, you didn’t have a style guide) or recently changed (that is, you switched style guides).
 
 - You have too much documentation and you need to shrink or eliminate some of it.
 
@@ -77,7 +77,7 @@ You have finished this type of project when you’ve completed tasks such as:
 - Modifying links and cross references between documents (as in a new or modified table of contents)
 - Deleting documentation
 
-Most projects won't do all of these steps.
+Most projects won’t do all of these steps.
 Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
 
 ### Out of scope
