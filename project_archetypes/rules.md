@@ -115,7 +115,7 @@ In your plan, don’t forget to include:
 
 - Team leadership
 - Code and documentation reviewers
-- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and their staff, such as finance, recruiters, sysadmins, or legal)
+- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and sponsor staff, such as finance, recruiters, sysadmins, or legal)
 
 ## Delay and failure risks
 
