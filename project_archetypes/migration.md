@@ -72,8 +72,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Deployment in production
 - Onboarding documentation contributors to the new tools, through promotion, training, or docs
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of scope
 

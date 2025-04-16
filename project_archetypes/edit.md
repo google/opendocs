@@ -77,8 +77,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Modifying links and cross references between documents (as in a new or modified table of contents)
 - Deleting documentation
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of scope
 
