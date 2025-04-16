@@ -3,9 +3,9 @@
 This project type focuses on switching the tools you use to make or deliver docs to your audience, such as adopting a new markup language, static site generator, content management system, or hosting service.
 
 _The Migration_ is also known as _replatforming_, _retooling_, _reformatting_, _porting_, and _upgrading_.
-It’s often preceded by [The Audit](audit.md), to find docs worthy of migration, or [The Study](study.md), to learn what kinds of migrations might make a difference to your audience or documentation contributors.
+It’s often preceded by [The Audit](./audit.md), to find docs worthy of migration, or [The Study](./study.md), to learn what kinds of migrations might make a difference to your audience or documentation contributors.
 
-Once you’re equipped with a new tool, _The Migration_ is often followed by generating new docs ([The Factory](factory.md)), improving accessibility or inclusiveness ([The Curb Cut](curb_cut.md)), or internationalization and localization ([The Translation](translation.md)).
+Once you’re equipped with a new tool, _The Migration_ is often followed by generating new docs ([The Factory](./factory.md)), improving accessibility or inclusiveness ([The Curb Cut](curb_cut.md)), or internationalization and localization ([The Translation](translation.md)).
 
 ## Audience
 
@@ -80,8 +80,8 @@ Choose the ones that make the most sense for your software project, available sk
 Some tasks aren’t part of this project type, such as:
 
 - Redesigning layouts and other presentational matters
-- Reordering or reorganizing the docs to be migrated ([The Edit](edit.md), [The Manual](manual.md))
-- Revising or rewriting the docs to be migrated ([The Edit](edit.md))
+- Reordering or reorganizing the docs to be migrated ([The Edit](./edit.md), [The Manual](./manual.md))
+- Revising or rewriting the docs to be migrated ([The Edit](./edit.md))
 
 Avoid including this work in your project plan.
 Break it out into its own project.
@@ -127,7 +127,7 @@ Risks include:
   Using a [responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) in your project plan can help clarify decisionmaking.
 
 - Failure to anticipate scale.
-  Failure to complete a content inventory (sometimes as a project itself, [The Audit](audit.md)) can lead to needlessly slow efforts. Don’t be the team that converts 10,000 pages by hand or builds a custom conversion pipeline for 10 pages.
+  Failure to complete a content inventory (sometimes as a project itself, [The Audit](./audit.md)) can lead to needlessly slow efforts. Don’t be the team that converts 10,000 pages by hand or builds a custom conversion pipeline for 10 pages.
 
 - Legal problems.
   If you’re copying content from source to another, you might need to get permission, ask authors to re-contribute, or create your own original substitutes to replace unlicensable content.

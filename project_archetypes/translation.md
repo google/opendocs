@@ -10,7 +10,7 @@ _The Translation_ is often preceded by:
 
 - [The Manual](./manual.md), to create new docs for your origin language or region
 - [The Edit](./edit.md) or [The Curb Cut](./curb_cut.md), to prepare your source docs for adaptation
-- [The Audit](./edit.md), to find source docs suitable for adaptation
+- [The Audit](./audit.md), to find source docs suitable for adaptation
 - [The Migration](./migration.md), to switch to documentation tools that support localization and internationalization
 
 ## Audience
