@@ -52,7 +52,7 @@ Do this project to solve problems such as:
 - Your docs contain regionalisms or national conventions that confuse a global audience.
   For example, your docs use American customary units, but your audience is more familiar with metric units.
 
-Don't do this project when:
+Don’t do this project when:
 
 - You wish to create completely original source docs (in other words, the new docs have no direct correspondence to existing docs).
   See [The Manual](./manual.md) for creating new docs, even if it’s in a different language.
@@ -74,7 +74,7 @@ You have finished this type of project when you’ve completed tasks such as:
 - Publishing the newly adapted docs
 - Announcing and promoting the newly available docs
 
-Most projects won't do all of these steps.
+Most projects won’t do all of these steps.
 Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
 
 ### Out of Scope

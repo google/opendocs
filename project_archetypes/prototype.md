@@ -71,7 +71,7 @@ You have finished this type of project when you’ve completed tasks such as:
 - Presenting results to stakeholders
 - Writing requirements, requests for proposals (RFPs), statements of work (SOWs), and other documents that support follow-up work
 
-You probably won't do all of these steps.
+You probably won’t do all of these steps.
 Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of Scope
@@ -124,4 +124,4 @@ Risks include:
 ## Resources
 
 _The Prototype_ is a meta project.
-See the resources for the specific project type you're trying to learn about.
+See the resources for the specific project type you’re trying to learn about.
