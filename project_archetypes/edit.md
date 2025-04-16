@@ -77,8 +77,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Modifying links and cross references between documents (as in a new or modified table of contents)
 - Deleting documentation
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of scope
 
@@ -111,7 +111,7 @@ Others contribute to this work. In your plan, don’t forget to include:
 
 - Team leadership
 - Code and documentation reviewers
-- Support roles, such as finance, recruiters, sysadmins, or legal
+- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and sponsor staff, such as finance, recruiters, sysadmins, or legal)
 
 ## Delay and failure risks
 
