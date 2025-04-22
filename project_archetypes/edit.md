@@ -14,7 +14,7 @@ _The Edit_ is often preceded by:
 - [The Study](./study.md) and [The Audit](./audit.md), to evaluate existing docs and determine which, if any, require editing
 - [The Rules](./rules.md), to adopt a style guide or document your software project’s writing conventions and document types
 - [The Manual](./manual.md), to create new docs
-- [The Sample](./sample.md), to create new sample code, figures, and captions
+- [The Widget](./widget.md), to create new sample code, figures, and captions
 
 _The Edit_ is often followed by [The Translation](./translation.md) or [The Curb Cut](./curb_cut.md), to make docs available to more audiences, or [The Rules](./rules.md), to codify lessons learned during _The Edit_.
 
