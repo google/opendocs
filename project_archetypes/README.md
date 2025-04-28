@@ -214,9 +214,6 @@ Tools and process archetypes adopt new tools or practices that help you make mor
   <dt><a href="./rules.md">The Rules</a></dt>
   <dd>Writing or rewriting contributor docs.</dd>
 
-  <dt><a href="./sample.md">The Sample</a></dt>
-  <dd>Programming new code samples, demos, or interactive tools to accompany your docs.</dd>
-
   <dt><a href="./show.md">The Show</a></dt>
   <dd>Creating audio and video materials, such as screencasts, livestreams, or podcasts.</dd>
 
@@ -225,4 +222,8 @@ Tools and process archetypes adopt new tools or practices that help you make mor
 
   <dt><a href="./translation.md">The Translation</a></dt>
   <dd>Working toward internationalization and localization of existing docs.</dd>
+
+  <dt><a href="./widget.md">The Widget</a></dt>
+  <dd>Programming new code samples, demos, or interactive tools to accompany your docs.
+  </dd>
 </dl>
