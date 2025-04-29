@@ -9,7 +9,7 @@ _The Manual_ is often preceded by:
 
 - [The Study](./study.md), to learn what topics would make the greatest impact for your audience
 - [The Audit](./audit.md), to find gaps in your current docs or the unsalvageable parts to replace
-- [The Discovery](./discovery.md), to test out a new kind of documentation or writing-and-review process
+- [The Prototype](./prototype.md), to test out a new kind of documentation or writing-and-review process
 
 Once you’ve published new docs, _The Manual_ is often followed by revising docs based on what you learned while writing them in the first place ([The Edit](./edit.md)) or translating docs for a wider audience ([The Translation](./translation.md)).
 
@@ -83,8 +83,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Publishing the docs
 - Announcing the changes
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of scope
 
@@ -118,7 +118,7 @@ In your plan, don’t forget to include:
 
 - Team leadership
 - Code and documentation reviewers
-- Support roles, such as finance, recruiters, sysadmins, or legal
+- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and sponsor staff, such as finance, recruiters, sysadmins, or legal)
 
 ## Delay and failure risks
 

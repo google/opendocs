@@ -7,7 +7,7 @@ _The Edit_ is also known as technical editing, proofreading, copyediting, develo
 _The Edit_ is most similar to [The Manual](./manual.md), which applies when you’re rewriting docs.
 
 _The Edit_ is sometimes difficult to estimate for size or duration.
-Consider testing the work with [The Discovery](./discovery.md).
+Consider testing the work with [The Prototype](./prototype.md).
 
 _The Edit_ is often preceded by:
 
@@ -77,8 +77,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Modifying links and cross references between documents (as in a new or modified table of contents)
 - Deleting documentation
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of scope
 
@@ -111,7 +111,7 @@ Others contribute to this work. In your plan, don’t forget to include:
 
 - Team leadership
 - Code and documentation reviewers
-- Support roles, such as finance, recruiters, sysadmins, or legal
+- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and sponsor staff, such as finance, recruiters, sysadmins, or legal)
 
 ## Delay and failure risks
 
@@ -131,7 +131,7 @@ Other sources of risk, such as absolute difficulty, are less common.
 - Unclear scope.
   Unrestricted editing can lead to a re-writing project in disguise.
   Target a specific level of edit or kind of change, such as applying a selected style rule, modifying a section common to many pages, or conforming several documents to a single document template.
-  [The Study](./study.md), [The Audit](./audit.md), or [The Discovery](./discovery.md) projects may help you narrow the scope.
+  [The Study](./study.md), [The Audit](./audit.md), or [The Prototype](./prototype.md) projects may help you narrow the scope.
 
 - Getting stuck on a single document or issue.
   Disagreement or the need for original research or writing can all but halt an editing project.

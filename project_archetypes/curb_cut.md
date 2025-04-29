@@ -58,8 +58,8 @@ You have finished this type of project when you’ve completed tasks such as:
 - Publishing the newly adapted docs
 - Announcing and promoting the newly available docs
 
-Most projects won’t do all of these steps.
-Choose the ones that make the most sense for your software project, available skills and resources, and timeline.
+You probably won’t do all of these steps.
+Choose the ones that make the most sense for your goals, available skills and resources, and timeline.
 
 ### Out of Scope
 
@@ -97,7 +97,7 @@ In your plan, don’t forget to include:
 
 - Team leadership
 - Code and docs reviewers
-- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and their staff, such as finance, recruiters, sysadmins, or legal)
+- Support roles, such as community managers, foundation leaders, and fiscal and other sponsors (and sponsor staff, such as finance, recruiters, sysadmins, or legal)
 
 ## Delay and failure risks
 
