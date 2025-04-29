@@ -122,7 +122,7 @@ The production archetypes make new docs that directly help your audience complet
     Writing new docs for users, administrators, and developers who use your software.
   </dd>
 
-  <dt><a href="./sample.md">The Sample</a></dt>
+  <dt><a href="./widget.md">The Widget</a></dt>
   <dd>
     Programming new code samples, demos, or interactive tools to embed in or otherwise support docs.
   </dd>

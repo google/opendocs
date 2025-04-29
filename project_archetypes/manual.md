@@ -9,7 +9,7 @@ _The Manual_ is often preceded by:
 
 - [The Study](./study.md), to learn what topics would make the greatest impact for your audience
 - [The Audit](./audit.md), to find gaps in your current docs or the unsalvageable parts to replace
-- [The Discovery](./discovery.md), to test out a new kind of documentation or writing-and-review process
+- [The Prototype](./prototype.md), to test out a new kind of documentation or writing-and-review process
 
 Once you’ve published new docs, _The Manual_ is often followed by revising docs based on what you learned while writing them in the first place ([The Edit](./edit.md)) or translating docs for a wider audience ([The Translation](./translation.md)).
 

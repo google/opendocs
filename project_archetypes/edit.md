@@ -7,7 +7,7 @@ _The Edit_ is also known as technical editing, proofreading, copyediting, develo
 _The Edit_ is most similar to [The Manual](./manual.md), which applies when you’re rewriting docs.
 
 _The Edit_ is sometimes difficult to estimate for size or duration.
-Consider testing the work with [The Discovery](./discovery.md).
+Consider testing the work with [The Prototype](./prototype.md).
 
 _The Edit_ is often preceded by:
 
@@ -131,7 +131,7 @@ Other sources of risk, such as absolute difficulty, are less common.
 - Unclear scope.
   Unrestricted editing can lead to a re-writing project in disguise.
   Target a specific level of edit or kind of change, such as applying a selected style rule, modifying a section common to many pages, or conforming several documents to a single document template.
-  [The Study](./study.md), [The Audit](./audit.md), or [The Discovery](./discovery.md) projects may help you narrow the scope.
+  [The Study](./study.md), [The Audit](./audit.md), or [The Prototype](./prototype.md) projects may help you narrow the scope.
 
 - Getting stuck on a single document or issue.
   Disagreement or the need for original research or writing can all but halt an editing project.

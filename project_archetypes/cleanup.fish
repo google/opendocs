@@ -39,7 +39,7 @@ sd --flags=i -- '^- support roles.*$' \
     $mdfiles
 
 set found_forbidden 0
-for forbidden in 'The Discovery' 'The Sample'
+for forbidden in 'The Discovery' 'discovery.md' 'The Sample' 'sample.md'
     if rg -F $forbidden $mdfiles
         echo "WARNING FORBIDDEN PHRASE: `$forbidden`"
         set found_forbidden 1
