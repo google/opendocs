@@ -1,6 +1,6 @@
 # The Audit
 
-<img style="float: right; width: 200px; margin-left: 20px" src="images/the_audit.png" 
+<img width=200px align="right" src="images/the_audit.png" 
 alt="The Audit: an otter holding an abacus and a red pie-shaped wedge against a background of pie charts and line charts">
 
 This project type focuses on accounting for the docs you already have, to help you make decisions about what to delete, modify, create, or reorganize.
@@ -13,6 +13,8 @@ _The Audit_ is sometimes difficult to estimate for size or duration.
 Consider testing the work with [The Prototype](./prototype.md).
 
 _The Audit_ is often followed by any of the other project types.
+
+
 
 ## Audience
 

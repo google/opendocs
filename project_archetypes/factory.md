@@ -1,6 +1,6 @@
 # The Factory
 
-<img style="float: right; width: 200; margin-left: 50" src="images/the_factory.png" 
+<img width=200px align="right" src="images/the_factory.png" 
 alt="The Factory: robot arms holding a red angled block against a backdrop of abstract circuitry in green and black">
 
 This project type focuses on automation for your docs, to help your docs contributors make docs more quickly, with less effort, or to a higher standard of quality.
