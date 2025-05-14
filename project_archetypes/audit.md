@@ -1,5 +1,9 @@
 # The Audit
 
+<!--<img align="right" width="200" src="images/the_audit.png"> -->
+<img style="float: right; width: 200; margin-left: 50" src="images/the_audit.png" 
+alt="The Audit: an otter holding an abacus and a red pie-shaped wedge against a background of pie charts and line charts">
+
 This project type focuses on accounting for the docs you already have, to help you make decisions about what to delete, modify, create, or reorganize.
 
 _The Audit_ is also known as an inventory or review.

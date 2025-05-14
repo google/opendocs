@@ -1,5 +1,8 @@
 # The Edit
 
+<img style="float: right; width: 200; margin-left: 50" src="images/the_edit.png" 
+alt="The Edit: a secretary bird holding a red pencil and a doc showing copy marked up for editing">
+
 This project type focuses on revising existing docs, to improve quality and consistency.
 
 _The Edit_ is also known as technical editing, proofreading, copyediting, developmental editing, content editing, and formatting.
