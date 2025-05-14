@@ -13,8 +13,11 @@ _The Audit_ is sometimes difficult to estimate for size or duration.
 Consider testing the work with [The Prototype](./prototype.md).
 
 _The Audit_ is often followed by any of the other project types.
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Audience
 
