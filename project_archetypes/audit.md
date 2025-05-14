@@ -1,6 +1,5 @@
 # The Audit
 
-<!--<img align="right" width="200" src="images/the_audit.png"> -->
 <img style="float: right; width: 200; margin-left: 50" src="images/the_audit.png" 
 alt="The Audit: an otter holding an abacus and a red pie-shaped wedge against a background of pie charts and line charts">
 
