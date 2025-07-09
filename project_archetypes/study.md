@@ -10,6 +10,12 @@ It’s also known by the names of its most well-known methods: SWOT analysis, in
 
 _The Study_ often precedes all other docs project types, when it helps you decide what to do next.
 _The Study_ often follows all other docs project types, when it helps you evaluate what you’ve already done.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Audience
 

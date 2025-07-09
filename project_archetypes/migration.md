@@ -9,6 +9,11 @@ _The Migration_ is also known as _replatforming_, _retooling_, _reformatting_, _
 It’s often preceded by [The Audit](./audit.md), to find docs worthy of migration, or [The Study](./study.md), to learn what kinds of migrations might make a difference to your audience or documentation contributors.
 
 Once you’re equipped with a new tool, _The Migration_ is often followed by generating new docs ([The Factory](./factory.md)), improving accessibility or inclusiveness ([The Curb Cut](curb_cut.md)), or internationalization and localization ([The Translation](translation.md)).
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Audience
 
