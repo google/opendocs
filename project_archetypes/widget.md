@@ -1,5 +1,8 @@
 # The Widget
 
+<img width=200px align="right" src="images/the_widget.png" 
+alt="The Widget: two tarsiers sitting on separate branches -- one is passing a box printed with the characters </> to the other">
+
 This project type focuses on making code samples, demos, or interactive tools to embed in or supplement your docs.
 
 _The Widget_ is also known by its most common artifacts: example code and configuration files.

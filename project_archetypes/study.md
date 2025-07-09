@@ -1,5 +1,8 @@
 # The Study
 
+<img width=200px align="right" src="images/the_study.png" 
+alt="The Study: a giraffe in a library, reading a book and taking notes">
+
 This project type focuses on learning more about your users, how they use your software and docs, and what options are available to you to improve your docs.
 
 _The Study_ is also known as research, user research, or audience analysis.

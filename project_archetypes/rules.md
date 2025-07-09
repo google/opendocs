@@ -1,5 +1,8 @@
 # The Rules
 
+<img width=200px align="right" src="images/the_rules.png" 
+alt="The Rules: a white hand and a green hand doing a 'pinky-swear' motion, surrounded by images of keys and keyholes">
+
 This project type focuses on making documentation for the software project itself, rather than the software that the project produces.
 The project type also has the uncanny propensity to discover your software project’s most fuzzy, ambiguous, and unexamined processes.
 

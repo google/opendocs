@@ -1,5 +1,8 @@
 # The Show
 
+<img width=200px align="right" src="images/the_show.png" 
+alt="The Show: a rabbit coming out of a top-hat, juggling various shapes">
+
 This project type focuses on creating audio and visual documentation, such as screencasts.
 It may also include work such as livestreams, podcasts, and other audiovisual formats, if they’re intended to complement or supplement your docs.
 

@@ -1,5 +1,8 @@
 # The Manual
 
+<img width=200px align="right" src="images/the_manual.png" 
+alt="The Manual: an owl in a park ranger uniform holding a compass and a lantern">
+
 The project type focuses on writing new docs for the people who use your software.
 This also includes writing docs that completely replace existing docs.
 

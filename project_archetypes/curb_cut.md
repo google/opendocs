@@ -1,5 +1,8 @@
 # The Curb Cut
 
+<img width=200px align="right" src="images/the_curb_cut.png" 
+alt="The Curb Cut: an elephant wearing dark glasses, holding a white cane, and using their trunk to read a braille sign that says 'welcome'">
+
 This project type focuses on preparing your docs to reach a wider audience by improving accessibility, making your docs useful to all regardless of permanent, temporary, or situational disability.
 
 _The Curb Cut_ is also known as accessibility remediation or compliance or by the numeronym a11y.

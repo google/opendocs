@@ -1,5 +1,8 @@
 # The Translation
 
+<img width=200px align="right" src="images/the_translation.png" 
+alt="The Translation: two butterflies on either side of a cocoon; one butterfly has a red and white square on its wing, while the other has a red and white circle">
+
 This project type focuses on making your docs ready to reach audiences around the world, adapting them to new languages or regions.
 
 _The Translation_ is also known as internationalization (i18n) and localization (l10n).

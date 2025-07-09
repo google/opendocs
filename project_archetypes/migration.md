@@ -1,5 +1,8 @@
 # The Migration
 
+<img width=200px align="right" src="images/the_migration.png" 
+alt="The Migration: a goose flying through clouds holding a toolbox">
+
 This project type focuses on switching the tools you use to make or deliver docs to your audience, such as adopting a new markup language, static site generator, content management system, or hosting service.
 
 _The Migration_ is also known as _replatforming_, _retooling_, _reformatting_, _porting_, and _upgrading_.
