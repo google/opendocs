@@ -1,5 +1,9 @@
 # The Prototype
 
+<img width=200px align="right" src="images/the_prototype.png" 
+alt="The Prototype: a beaver wearing a construction hat and holding a 3D model of a dam.">
+
+
 This project type focuses on finding the practicality and scope of future work, to prepare some larger documentation project.
 In other words, it’s any one of the other project types, but in miniature.
 
@@ -10,6 +14,11 @@ _The Prototype_ is mostly closely related to [The Study](./study.md) but with a 
 _The Prototype_ is often preceded by [The Study](./study.md) or [The Audit](./audit.md), to find what kinds of documentation work may need to be done or how to do it.
 
 _The Prototype_ is often followed by any of the other project types, after they’ve been proven by _The Prototype_’s test run.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Audience
 
