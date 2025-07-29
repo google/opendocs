@@ -1,5 +1,8 @@
 # The Invention
 
+<img width=200px align="right" src="images/the_invention.png" 
+alt="The Invention: a robot with many arms holding various objects like sock puppets, playing cards, an MP3 player, a tray with tools on it, and a magazine">
+
 This project type focuses on making especially creative or distinctive works that supplement or extend traditional prose docs.
 This includes diagrams, illustrations, photography, stories, comics, zines, and games for your open source software.
 This type of project is strongly oriented to the medium of the work, typically by collaborating with a specific artist, storyteller, or game designer.
@@ -13,6 +16,9 @@ _The Invention_ is sometimes difficult to estimate for size or duration.
 Consider testing the work with [The Prototype](./prototype.md).
 
 _The Invention_ is often followed by [The Show](./show.md), where illustrations are used as supporting material for video.
+<br>
+<br>
+<br>
 
 ## Audience
 
